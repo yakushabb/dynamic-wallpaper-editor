@@ -84,7 +84,10 @@
   <url type="homepage">https://github.com/maoschanz/dynamic-wallpaper-editor</url>
   <url type="donation">https://paypal.me/maoschannz</url>
   <!-- That's my name, don't translate it -->
-  <developer_name>Romain F. T.</developer_name>
+  <developer_name translate="no">Romain F. T.</developer_name>
+  <developer id="io.github.maoschanz">
+    <name translate="no">Romain F. T.</name>
+  </developer>
   <update_contact>rrroschan@gmail.com</update_contact>
 
   <translation type="gettext">dynamic-wallpaper-editor</translation>

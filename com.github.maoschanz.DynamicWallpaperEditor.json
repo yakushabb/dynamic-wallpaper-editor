@@ -13,6 +13,7 @@
 	"modules" : [{
 		"name" : "dynamic-wallpaper-editor",
 		"buildsystem" : "meson",
+		"run-tests" : true,
 		"sources" : [{
 			"type" : "dir",
 			"path" : "."
