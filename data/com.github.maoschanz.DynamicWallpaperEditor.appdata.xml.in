@@ -9,15 +9,8 @@
   <!-- If it's not possible, remove "or edit", or even "create or edit". -->
   <summary>Create or edit dynamic wallpapers for GNOME</summary>
   <description>
-    <p>
-      Dynamic Wallpaper Editor is a simple utility to create or edit dynamic
-      wallpapers for the GNOME desktop.
-    </p>
-    <p>
-      The duration of each picture and each transition can be set separately or
-      globally. The wallpaper will fit the daylight if its total duration is
-      exactly 24 hours.
-    </p>
+    <p>Dynamic Wallpaper Editor is a simple utility to create or edit dynamic wallpapers for the GNOME desktop.</p>
+    <p>The duration of each picture and each transition can be set separately or globally. The wallpaper will fit the daylight if its total duration is exactly 24 hours.</p>
   </description>
 
   <releases>
